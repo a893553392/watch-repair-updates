@@ -1,0 +1,13 @@
+{
+  "latest": "1.2.0",
+  "min_version": "1.0.0",
+  "published_at": "2026-10-17",
+  "notes": "腕匠名表维修中心 自动更新版：新增「关于/检查更新」入口，支持远程一键升级（只换程序、不碰客户账本）。",
+  "files": {
+    "watch_repair.exe": {
+      "url": "https://github.com/a893553392/watch-repair-updates/releases/download/v1.2.0/watch_repair.exe",
+      "sha256": "5425dc97018e8a9679bc130eca82b488c391a7a78a67818896e3b4ca4f69fd14",
+      "size": 61635289
+    }
+  }
+}
